@@ -1,2 +1,2 @@
 This is a test file.
-Commit to branch2.
+Commit to branch2. 
